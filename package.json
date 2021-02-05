@@ -24,7 +24,7 @@
         "tailwindcss": "^0.7.3",
         "vue": "^2.5.17",
         "vue-template-compiler": "^2.5.22",
-        "webpack": "*"
+        "webpack": "^2.1.0"
     },
     "dependencies": {
         "postcss-easy-import": "^3.0.0"
